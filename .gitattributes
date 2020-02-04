@@ -1,0 +1,2 @@
+generator3 filter=lfs diff=lfs merge=lfs -text
+generator_3/* filter=lfs diff=lfs merge=lfs -text
